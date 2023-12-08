@@ -31,7 +31,7 @@ For example, this is how you inject a procedure:
 ## Add interactive elements
 
 ### Tabs
-To add switchable content, use tabs (start typing `tabs` on a new line).
+To add switchable test content, use tabs (start typing `tabs` on a new line).
 
 <tabs>
     <tab title="Markdown">
